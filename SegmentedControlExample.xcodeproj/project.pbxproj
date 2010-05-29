@@ -17,7 +17,6 @@
 		BF39139011AD2F8D005477C6 /* AustraliaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF39138E11AD2F8D005477C6 /* AustraliaViewController.m */; };
 		BF3913E811AD3273005477C6 /* AustraliaDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF3913E611AD3273005477C6 /* AustraliaDetailViewController.m */; };
 		BF3913E911AD3273005477C6 /* AustraliaDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF3913E711AD3273005477C6 /* AustraliaDetailViewController.xib */; };
-		BF3913FB11AD3497005477C6 /* strahan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BF3913FA11AD3497005477C6 /* strahan.jpg */; };
 		BF39140D11AD3544005477C6 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF39140C11AD3544005477C6 /* QuartzCore.framework */; };
 		BFADAA4E11AAAAAC00AF9EE3 /* SegmentManagingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFADAA4D11AAAAAC00AF9EE3 /* SegmentManagingViewController.m */; };
 		BFADAA5611AAAB1A00AF9EE3 /* ItalyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFADAA5411AAAB1A00AF9EE3 /* ItalyViewController.m */; };
@@ -42,7 +41,6 @@
 		BF3913E511AD3273005477C6 /* AustraliaDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AustraliaDetailViewController.h; sourceTree = "<group>"; };
 		BF3913E611AD3273005477C6 /* AustraliaDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AustraliaDetailViewController.m; sourceTree = "<group>"; };
 		BF3913E711AD3273005477C6 /* AustraliaDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AustraliaDetailViewController.xib; sourceTree = "<group>"; };
-		BF3913FA11AD3497005477C6 /* strahan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = strahan.jpg; path = "../../workspace/ruby/jd/content/30 Changing Views via a UISegmentedControl/strahan.jpg"; sourceTree = SOURCE_ROOT; };
 		BF39140C11AD3544005477C6 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		BFADAA4C11AAAAAC00AF9EE3 /* SegmentManagingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SegmentManagingViewController.h; sourceTree = "<group>"; };
 		BFADAA4D11AAAAAC00AF9EE3 /* SegmentManagingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SegmentManagingViewController.m; sourceTree = "<group>"; };
@@ -113,7 +111,6 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				BF3913FA11AD3497005477C6 /* strahan.jpg */,
 				BF39137611AD2EC3005477C6 /* sardinia.jpg */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* SegmentedControlExample-Info.plist */,
@@ -202,7 +199,6 @@
 				BFADAA5711AAAB1A00AF9EE3 /* ItalyViewController.xib in Resources */,
 				BF39137711AD2EC3005477C6 /* sardinia.jpg in Resources */,
 				BF3913E911AD3273005477C6 /* AustraliaDetailViewController.xib in Resources */,
-				BF3913FB11AD3497005477C6 /* strahan.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

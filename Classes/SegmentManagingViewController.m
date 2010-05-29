@@ -120,6 +120,14 @@
 #pragma mark -
 #pragma mark Memory management
 
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+
+    for (UIViewController * viewController in self.segmentedViewControllers) {
+        [viewController didReceiveMemoryWarning];
+    }
+}
+
 - (void)viewDidUnload {
     self.segmentedControl         = nil;
     self.segmentedViewControllers = nil;
