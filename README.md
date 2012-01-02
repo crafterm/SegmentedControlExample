@@ -5,3 +5,5 @@ Example code from
 for details.
 
 Comments, feedback and suggestions all [welcome](mailto:crafterm@redartisan.com)!
+
+MIT license.
